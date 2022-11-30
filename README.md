@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Divakarsingh
+- 👋 Hi, I’m @Divakar Singh
 - 👀 I’m interested in ... web development
 - 🌱 I’m currently learning ... React
 - 💞️ I’m looking to collaborate on ... Fullstack web development
